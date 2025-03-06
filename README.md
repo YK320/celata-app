@@ -8,8 +8,8 @@ This project is a React Native **Account Settings** screen that allows users to 
 
 ### Clone the repository:
 ```sh
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/YK320/celata-app
+cd celata-app
 ```
 
 ### Install dependencies:
